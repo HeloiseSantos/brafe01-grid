@@ -1,5 +1,4 @@
 /* Reset */
-
 body, h1, h2, h3, p, ul {
 	padding: 0px;
 	margin: 0px;
@@ -15,7 +14,6 @@ body {
 }
 
 /* Menu */
-
 .menu {
 	background: #252525;
 }
@@ -27,7 +25,6 @@ body {
 }
 
 /* Intro */
-
 .intro {
 	background: url('../img/bg-intro.jpg') no-repeat center center;
 	background-size: cover;
@@ -53,7 +50,6 @@ body {
 }
 
 /* Sobre */
-
 .sobre h2 {
 	font-size: 2.25em;
 }
@@ -76,7 +72,6 @@ body {
 }
 
 /* Produtos */
-
 .produtos {
 	background: #e7e4d8;
 	border-top: 3px solid #d6d3c8;
@@ -126,7 +121,6 @@ h2.produtos-mineiro::before {
 }
 
 /* Locais */
-
 .locais-item h2 {
 	font-size: 2.25em;
 }
@@ -145,7 +139,6 @@ h2.produtos-mineiro::before {
 }
 
 /* Assine */
-
 .assine {
 	background: #e7e4d8;
 }
@@ -182,7 +175,6 @@ h2.produtos-mineiro::before {
 }
 
 /*Footer*/
-
 .footer {
 	background: #d6d3c8;
 }
