@@ -48,6 +48,7 @@ img {
 @media (max-width: 739px) {
 	.menu-nav ul {
 		float: none;
+		margin-top: 20px;
 	}
 
 	.menu-nav ul li a {
