@@ -1,10 +1,8 @@
 <h1 align="center">Brafé 01 - Grid Layout</h1>
 
 # O projeto
-Primeiro projeto desenvolvido durante o curso "CSS Avançado Posicionamento" da Origamid - https://www.origamid.com/ <br/>
-
-Este projeto foi focado em desenvolver uma página home de um site de uma marca de café.<br/> 
-O foco do mesmo foi construir um layout responsivo utilizando o Grid Layout.
+Projeto desenvolvido durante o curso "CSS Avançado Posicionamento" da Origamid - https://www.origamid.com/curso/css-avancado-posicionamento/ -
+focado em desenvolver uma página home para um site de uma marca de café, com um layout responsivo e utilizando o Grid Layout.
 
 # Tecnologias utilizadas
 - HTML
